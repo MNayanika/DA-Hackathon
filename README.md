@@ -40,3 +40,11 @@ Conclusions
 4.	In point 10 we find the same hotels to be in the top 3 performers. 
 5.	From point 11 we find the top 5 booking platforms for the hotels. Hence more promotions and offers should be redirected in these platforms.
 6.	In point 12 we see that Mumbai and Bangalore are the top cities in terms of revenue generation. Hence more marketing and offers in these cities can help generate even more revenue. Also any new projects can also be more profitable in these locations than any other.
+
+
+
+Snapshot of the dashboard
+
+![image](https://github.com/MNayanika/DA-Hackathon/assets/164651556/f8d3a640-bfc8-47cb-8fb6-491ecac41e36)
+
+
