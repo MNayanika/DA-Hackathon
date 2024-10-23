@@ -1,4 +1,4 @@
-# DA-Hackathon
+# Performance Analysis on GDS Chain of Hotels (Data Analysis-Hackathon)
 
 
 Hotels Analysis Dashboard
